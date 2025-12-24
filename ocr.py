@@ -52,7 +52,7 @@ def extract_text_from_image(image_path, api_key, model, task_type, max_tokens, t
             return None
 
 def process_all_pdfs():
-    api_key = "sk-mqnSVbHwP4aDovxg5IRaLvZ6gyVnVaWfZP3dOJVt1J2ECjD8"
+    api_key = "<API_KEY_HERE>"
     input_dir = Path("input")
     output_dir = Path("output")
     
