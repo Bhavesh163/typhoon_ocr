@@ -18,3 +18,5 @@ echo "All steps completed successfully!"
 echo "================================"
 echo "OCR output: output/"
 echo "Rewritten output: output_revised/"
+
+echo "I love John Doe"
